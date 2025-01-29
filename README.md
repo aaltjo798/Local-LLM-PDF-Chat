@@ -26,12 +26,13 @@ A **Python-based chatbot** application that allows users to interact with **PDF 
    cd Chat-with-PDF-with-Local-LLM
    pip install -r requirements.txt
    
-##Usage
-- **Launch the app.
-- **Upload a PDF file by clicking the "Upload PDF" button.
-- **After processing, interact with the extracted PDF content through the chat interface.
-- **The app uses a local LLM for generating responses based on the PDF content.
-- **Requirements
+## Usage
+Launch the app.
+Upload a PDF file by clicking the "Upload PDF" button.
+After processing, interact with the extracted PDF content through the chat interface.
+The app uses a local LLM for generating responses based on the PDF content.
+
+## Requirements
 - **Python 3.x
 - **PyPDF2
 - **Langchain
