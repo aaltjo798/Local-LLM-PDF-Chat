@@ -22,7 +22,7 @@ A **Python-based chatbot** application that allows users to interact with **PDF 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/aaltjo798/Chat-with-PDF-with-Local-LLM.git
+   git clone https://github.com/aaltjo798/Local-LLM-PDF-Chat.git
    cd Chat-with-PDF-with-Local-LLM
    pip install -r requirements.txt
    
